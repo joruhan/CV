@@ -1,1 +1,2 @@
-<h1>Static CV <a href="https://joruhan.github.io/CV/"></a></h1>
+<h1>Static CV</h1>
+<p>https://joruhan.github.io/CV/</p>
